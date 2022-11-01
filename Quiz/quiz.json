@@ -1,0 +1,26 @@
+[
+  {
+    "Pytanie: ": "W którum roku powstał język Python?",
+    "a": 1986,
+    "b": 1991,
+    "c": 1995,
+    "d": 2000,
+    "prawidlowa_odpowiedz": "b"
+  },
+  {
+    "Pytanie: ": "Którą planetą od Słońca jest Ziemia",
+    "a": 1,
+    "b": 2,
+    "c": 3,
+    "d": 4,
+    "prawidlowa_odpowiedz": "c"
+  },
+  {
+    "Pytanie: ": "Który aktor jako pierwszy wcielił się w rolę Jamesa Bonda?",
+    "a": "Sean Connery",
+    "b": "Roger Moore",
+    "c": "Timothy Dalton",
+    "d": "Pierce Brosnan",
+    "prawidlowa_odpowiedz": "a"
+  }
+]
