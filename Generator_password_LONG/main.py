@@ -75,3 +75,4 @@ for i in range(int_password_length):
         digits-=1
 random.shuffle(password)
 print("Wygenerowane hasło: ", "".join(password))
+
