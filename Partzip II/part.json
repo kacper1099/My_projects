@@ -1,0 +1,404 @@
+[
+  {
+    "czasownik": "zaczynac sie",
+    "a":"beginnen",
+    "b":"begann",
+    "c":"begonnen"
+  },
+  {
+    "czasownik": "zapewniac",
+    "a":"bieten",
+    "b":"bot",
+    "c":"geboten"
+  },
+  {
+    "czasownik": "poprosic",
+    "a":"bitten",
+    "b":"bat",
+    "c":"gebeten"
+  },
+  {
+    "czasownik": "pozostac",
+    "a":"bleiben",
+    "b":"blieb",
+    "c":"geblieben"
+  },
+  {
+    "czasownik": "przyniesc",
+    "a":"bringen",
+    "b":"brachte",
+    "c":"gebracht"
+  },
+  {
+    "czasownik": "myslec/twierdzic",
+    "a":"denken",
+    "b":"dachte",
+    "c":"gedacht"
+  },
+  {
+    "czasownik": "miec pozwolenie",
+    "a":"dUrfen",
+    "b":"durfte",
+    "c":"gedurft"
+  },
+  {
+    "czasownik": "polecac/doradzac",
+    "a":"empfehlen",
+    "b":"empfahl",
+    "c":"empfohlen"
+  },
+  {
+    "czasownik": "jesc",
+    "a":"essen",
+    "b":"aB",
+    "c":"gegessen"
+  },
+  {
+    "czasownik": "jechac",
+    "a":"fahren",
+    "b":"fuhr",
+    "c":"gefahren"
+  },
+  {
+    "czasownik": "upasc/polec",
+    "a":"fallen",
+    "b":"fiel",
+    "c":"gefallen"
+  },
+  {
+    "czasownik": "znalezc",
+    "a":"finden",
+    "b":"fand",
+    "c":"gefunden"
+  },
+  {
+    "czasownik": "latac",
+    "a":"fliegen",
+    "b":"flog",
+    "c":"geflogen"
+  },
+  {
+    "czasownik": "dac",
+    "a":"geben",
+    "b":"gab",
+    "c":"gegeben"
+  },
+  {
+    "czasownik": "byc miłym, podobac sie",
+    "a":"gefallen",
+    "b":"gefiel",
+    "c":"gefallen"
+  },
+  {
+    "czasownik": "isc",
+    "a":"gehen",
+    "b":"ging",
+    "c":"gegangen"
+  },
+  {
+    "czasownik": "wygrac/zyskac",
+    "a":"gewinnen",
+    "b":"gewann",
+    "c":"gewonnen"
+  },
+  {
+    "czasownik": "miec",
+    "a":"haben",
+    "b":"hatte",
+    "c":"gehabt"
+  },
+  {
+    "czasownik": "trzymac",
+    "a":"halten",
+    "b":"hielt",
+    "c":"gehalten"
+  },
+  {
+    "czasownik": "powiesic",
+    "a":"hAngen",
+    "b":"hing",
+    "c":"gehangen"
+  },
+  {
+    "czasownik": "nazywac sie/znaczyc",
+    "a":"heiBen",
+    "b":"hieB",
+    "c":"geheiBen"
+  },
+  {
+    "czasownik": "pomoc",
+    "a":"helfen",
+    "b":"half",
+    "c":"geholfen"
+  },
+  {
+    "czasownik": "wiedziec",
+    "a":"kennen",
+    "b":"kannte",
+    "c":"gekannt"
+  },
+  {
+    "czasownik": "przyjsc",
+    "a":"kommen",
+    "b":"kam",
+    "c":"gekommen"
+  },
+  {
+    "czasownik": "moc/potrafic",
+    "a":"kOnnen",
+    "b":"konnte",
+    "c":"gekonnt"
+  },
+  {
+    "czasownik": "ladowac",
+    "a":"laden",
+    "b":"lud",
+    "c":"geladen"
+  },
+  {
+    "czasownik": "kazac cos zrobic",
+    "a":"lassen",
+    "b":"lieB",
+    "c":"gelassen"
+  },
+  {
+    "czasownik": "biegac",
+    "a":"laufen",
+    "b":"lief",
+    "c":"gelaufen"
+  },
+  {
+    "czasownik": "czytac",
+    "a":"lesen",
+    "b":"las",
+    "c":"gelesen"
+  },
+  {
+    "czasownik": "lezec",
+    "a":"liegen",
+    "b":"lag",
+    "c":"gelegen"
+  },
+  {
+    "czasownik": "lubic",
+    "a":"mOgen",
+    "b":"mochte",
+    "c":"gemocht"
+  },
+  {
+    "czasownik": "musiec",
+    "a":"mUssen",
+    "b":"musste",
+    "c":"gemusst"
+  },
+  {
+    "czasownik": "wziac/brac",
+    "a":"nehmen",
+    "b":"nahm",
+    "c":"genommen"
+  },
+  {
+    "czasownik": "nazywac",
+    "a":"nennen",
+    "b":"nannte",
+    "c":"genannt"
+  },
+  {
+    "czasownik": "doradzac",
+    "a":"raten",
+    "b":"riet",
+    "c":"geraten"
+  },
+  {
+    "czasownik": "wolac/zawolac",
+    "a":"rufen",
+    "b":"rief",
+    "c":"gerufen"
+  },
+  {
+    "czasownik": "spac",
+    "a":"schlafen",
+    "b":"schlief",
+    "c":"geschlafen"
+  },
+  {
+    "czasownik": "wybić/uderzyc",
+    "a":"schlagen",
+    "b":"schlug",
+    "c":"geschlagen"
+  },
+  {
+    "czasownik": "zamknac",
+    "a":"schlieBen",
+    "b":"schloss",
+    "c":"geschlossen"
+  },
+  {
+    "czasownik": "pisac",
+    "a":"schreiben",
+    "b":"schrieb",
+    "c":"geschrieben"
+  },
+  {
+    "czasownik": "milczec",
+    "a":"schweigen",
+    "b":"schwieg",
+    "c":"geschwiegen"
+  },
+  {
+    "czasownik": "plywac",
+    "a":"schwimmen",
+    "b":"schwamm",
+    "c":"geschwommen"
+  },
+  {
+    "czasownik": "wiedziec",
+    "a":"sehen",
+    "b":"sah",
+    "c":"gesehen"
+  },
+  {
+    "czasownik": "byc",
+    "a":"sein",
+    "b":"war",
+    "c":"gewessen"
+  },
+  {
+    "czasownik": "spiewac",
+    "a":"singen",
+    "b":"sang",
+    "c":"gesungen"
+  },
+  {
+    "czasownik": "siedziec",
+    "a":"sitzen",
+    "b":"saB",
+    "c":"gesessen"
+  },
+  {
+    "czasownik": "miec powinnosc",
+    "a":"sollen",
+    "b":"sollte",
+    "c":"gesollt"
+  },
+  {
+    "czasownik": "mówić",
+    "a":"sprechen",
+    "b":"sprach",
+    "c":"gesprochen"
+  },
+  {
+    "czasownik": "podskakiwac, skakac",
+    "a":"springen",
+    "b":"sprang",
+    "c":"gesprungen"
+  },
+  {
+    "czasownik": "stac",
+    "a":"stehen",
+    "b":"stand",
+    "c":"gestanden"
+  },
+  {
+    "czasownik": "rosnac",
+    "a":"steigen",
+    "b":"stieg",
+    "c":"gestiegen"
+  },
+  {
+    "czasownik": "umierac",
+    "a":"sterben",
+    "b":"starb",
+    "c":"gestorben"
+  },
+  {
+    "czasownik": "walczyc/klocic sie",
+    "a":"streiten",
+    "b":"stritt",
+    "c":"gestritten"
+  },
+  {
+    "czasownik": "nosic",
+    "a":"tragen",
+    "b":"trug",
+    "c":"getragen"
+  },
+  {
+    "czasownik": "spotykac",
+    "a":"treffen",
+    "b":"traf",
+    "c":"getroffen"
+  },
+  {
+    "czasownik": "napedzac/poganiac",
+    "a":"treiben",
+    "b":"trieb",
+    "c":"getrieben"
+  },
+  {
+    "czasownik": "pic",
+    "a":"trinken",
+    "b":"trank",
+    "c":"getrunken"
+  },
+  {
+    "czasownik": "zrobic",
+    "a":"tun",
+    "b":"tat",
+    "c":"getan"
+  },
+  {
+    "czasownik": "zapomniec",
+    "a":"vergessen",
+    "b":"vergaB",
+    "c":"vergessen"
+  },
+  {
+    "czasownik": "opuszczac",
+    "a":"verlassen",
+    "b":"verlieB",
+    "c":"verlassen"
+  },
+  {
+    "czasownik": "stracic/przegrac",
+    "a":"verlieren",
+    "b":"verlor",
+    "c":"verloren"
+  },
+  {
+    "czasownik": "rosnac",
+    "a":"wachsen",
+    "b":"wuchs",
+    "c":"gewachsen"
+  },
+  {
+    "czasownik": "myc",
+    "a":"waschen",
+    "b":"wusch",
+    "c":"gewaschen"
+  },
+  {
+    "czasownik": "stawac sie/ wracac",
+    "a":"werden",
+    "b":"wurde",
+    "c":"geworden"
+  },
+  {
+    "czasownik": "umiec / wiedziec",
+    "a":"wissen",
+    "b":"wusste",
+    "c":"gewusst"
+  },
+  {
+    "czasownik": "chciec",
+    "a":"wollen",
+    "b":"wollte",
+    "c":"gewollt"
+  },
+  {
+    "czasownik": "ciagnac",
+    "a":"ziehen",
+    "b":"zog",
+    "c":"gezogen"
+  }
+]
